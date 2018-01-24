@@ -62,6 +62,19 @@ var AirSteward = /** @class */ (function (_super) {
         enumerable: true,
         configurable: true
     });
+    Object.defineProperty(AirSteward.prototype, "class", {
+        get: function () {
+            return this._class;
+        },
+        set: function (myclass) {
+            if (myclass != "first class" && myclass != "business class" && myclass != "economy class")
+                this._class = "economy class";
+            else
+                this._class = myclass;
+        },
+        enumerable: true,
+        configurable: true
+    });
     AirSteward.prototype.print = function () {
         document.write("AirSteward Details: <br/>");
         _super.prototype.print.call(this);

@@ -40,8 +40,8 @@ class Pilot extends Person {
 
 class AirSteward extends Person {
     private _seniority: number;
+    private _class: string;
     public countryOfOrigin: string;
-    public class: string;
 
     constructor(firstname: string, lastname: string, seniority: number, countryoforigin: string,myclass: string) {
         super(firstname, lastname);
@@ -56,6 +56,16 @@ class AirSteward extends Person {
     get seniority() {
         return this._seniority;
     }
+
+    set class(myclass) {
+        if (myclass != "first class" && myclass != "business class" && myclass != "economy class") this._class = "economy class";
+        else this._class = myclass;
+    }
+
+    get class() {
+        return this._class;
+    }
+
 
     print(): void {
         document.write("AirSteward Details: <br/>");

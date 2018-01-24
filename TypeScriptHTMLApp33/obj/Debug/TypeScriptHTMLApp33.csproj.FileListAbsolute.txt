@@ -5,10 +5,3 @@ C:\Users\Meir\source\repos\TypeScriptHTMLApp33\TypeScriptHTMLApp33\obj\Debug\Typ
 C:\Users\Meir\source\repos\TypeScriptHTMLApp33\TypeScriptHTMLApp33\obj\Debug\TypeScriptHTMLApp33.csproj.CoreCompileInputs.cache
 C:\Users\Meir\source\repos\TypeScriptHTMLApp33\TypeScriptHTMLApp33\obj\Debug\TypeScriptHTMLApp1.dll
 C:\Users\Meir\source\repos\TypeScriptHTMLApp33\TypeScriptHTMLApp33\obj\Debug\TypeScriptHTMLApp1.pdb
-C:\Users\Meir\Documents\GitHub\Inheritance\TypeScriptHTMLApp33\bin\TypeScriptHTMLApp1.dll.config
-C:\Users\Meir\Documents\GitHub\Inheritance\TypeScriptHTMLApp33\bin\TypeScriptHTMLApp1.dll
-C:\Users\Meir\Documents\GitHub\Inheritance\TypeScriptHTMLApp33\bin\TypeScriptHTMLApp1.pdb
-C:\Users\Meir\Documents\GitHub\Inheritance\TypeScriptHTMLApp33\obj\Debug\TypeScriptHTMLApp33.csprojResolveAssemblyReference.cache
-C:\Users\Meir\Documents\GitHub\Inheritance\TypeScriptHTMLApp33\obj\Debug\TypeScriptHTMLApp33.csproj.CoreCompileInputs.cache
-C:\Users\Meir\Documents\GitHub\Inheritance\TypeScriptHTMLApp33\obj\Debug\TypeScriptHTMLApp1.dll
-C:\Users\Meir\Documents\GitHub\Inheritance\TypeScriptHTMLApp33\obj\Debug\TypeScriptHTMLApp1.pdb
